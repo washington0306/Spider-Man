@@ -2,7 +2,7 @@
 <p><b>Landing page do jogo Marvel's Spider-man Miles Morales, com app para incrição</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://csb-4zrj5-1gvtddp8l-leehsanttana.vercel.app/"> Visite o site! </a>
+<a href="https://spider-man-pink.vercel.app/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
