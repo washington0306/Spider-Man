@@ -57,29 +57,23 @@
 
 <h2 id="autor">Autor do Projeto:</h2>
 
-<h3>Leonam da Silva Santana (EU 😂)</h3>
+<h3>José Washington Gomes (EU 😂)</h3>
 
 <p> 
-  <a href="https://www.linkedin.com/in/leonam-santana-5352a61b3/">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-washington-a53428184/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://github.com/leehsanttana/">
+  <a href="https://github.com/washington0306">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/leonam.santtana/?igshid=s2debj44nc6v/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-  <a href="https://api.whatsapp.com/send?phone=5521976370007/">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>   
+  </a>  
 </p>
 
 <ul>
-  <li>Front-End Designer</li>
+  <li>Front-End Developer</li>
   <li>UX/UI Designer</li>
 </ul>
 
-<a href="https://leehsanttana.github.io/personal-portfolio/" target="_blanck"><b>Meu Portfólio</b></a>
+<a href="https://jose-washington.vercel.app/" target="_blanck"><b>Meu Portfólio</b></a>
 
 <h2 id="consideracoes">Conseiderações Finais:</h2>
 
